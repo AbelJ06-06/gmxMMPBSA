@@ -1,4 +1,5 @@
 This is the input file to calculate MMGBSA and MMPBSA for protein ligand complexes
+
 ----Activate the conda environment with gmxMMPBSA installed-----
 
 conda activate gmxMMPBSA
